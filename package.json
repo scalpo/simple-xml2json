@@ -1,10 +1,31 @@
 {
-  "name": "node-xml2json",
+  "name": "simple-xml2json",
   "version": "1.0.0",
   "description": "xml to json for Node.js",
-  "author": "Kenshin <kenshin@ksria.com> (http://www.k-zone.cn/zblog)",
-  "keywords": ["xml", "json", "xml to json", "xml2json"],
-  "repository": "git@github.com:Kenshin/node-xml2json.git",
+  "author": "Mayank Dedhia <mayankdedhia@gmail.com>",
+  "keywords": [
+    "xml",
+    "json",
+    "xml to json",
+    "xml2json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mayankdedhia/xml2json.git"
+  },
   "main": "index",
-  "engines": { "node": "*" }
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/mayankdedhia/xml2json/issues"
+  },
+  "homepage": "https://github.com/mayankdedhia/xml2json",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
