@@ -11,16 +11,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:mayankdedhia/xml2json.git"
+    "url": "git@github.com:mayankdedhia/simple-xml2json.git"
   },
   "main": "index",
   "engines": {
     "node": "*"
   },
   "bugs": {
-    "url": "https://github.com/mayankdedhia/xml2json/issues"
+    "url": "https://github.com/mayankdedhia/simple-xml2json/issues"
   },
-  "homepage": "https://github.com/mayankdedhia/xml2json",
+  "homepage": "https://github.com/mayankdedhia/simple-xml2json",
   "directories": {
     "test": "test"
   },
