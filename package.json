@@ -1,6 +1,6 @@
 {
   "name": "simple-xml2json",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "xml to json for Node.js",
   "author": "Mayank Dedhia <mayankdedhia@gmail.com>",
   "keywords": [
